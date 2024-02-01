@@ -474,13 +474,7 @@ function App() {
       <div className="grid">{loggedIn ? loggedInView : unloggedInView}</div>
 
       <footer className="footer">
-        <a
-          href="https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/blockchain-connection-examples/evm-modal-example"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Source code
-        </a>
+        <img src="./public/bluechiptechlogo" alt="Company logo"></img>
       </footer>
     </div>
   );
