@@ -474,7 +474,9 @@ function App() {
       <div className="grid">{loggedIn ? loggedInView : unloggedInView}</div>
 
       <footer className="footer">
-        <img src="./public/bluechiptechlogo.jpg" alt="Company logo" width={128} height={128}></img>
+        <a href="http://blockchain-tech.asia" target="_blank">
+          <img src=".\public\bluechiptechlogo.jpg" alt="Blockchain Technology Asia" width={128} height={128}/>
+        </a>
       </footer>
     </div>
   );
