@@ -475,7 +475,7 @@ function App() {
 
       <footer className="footer">
         <a href="http://blockchain-tech.asia" target="_blank">
-          <img src=".\public\bluechiptechlogo.jpg" alt="Blockchain Technology Asia" width={128} height={128}/>
+          <img src="./bluechiptechlogo.jpg" alt="Blockchain Technology Asia" width={128} height={128}/>
         </a>
       </footer>
     </div>
