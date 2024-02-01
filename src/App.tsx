@@ -474,7 +474,7 @@ function App() {
       <div className="grid">{loggedIn ? loggedInView : unloggedInView}</div>
 
       <footer className="footer">
-        <img src="./public/bluechiptechlogo" alt="Company logo"></img>
+        <img src="./public/bluechiptechlogo.jpg" alt="Company logo" width={128} height={128}></img>
       </footer>
     </div>
   );
