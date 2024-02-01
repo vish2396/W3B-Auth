@@ -474,7 +474,7 @@ function App() {
       <div className="grid">{loggedIn ? loggedInView : unloggedInView}</div>
 
       <footer className="footer">
-        <a href="http://blockchain-tech.asia" target="_blank">
+        <a href="http://blockchain-tech.asia" target="_blank" rel="nooperner noreferrer">
           <img src="./bluechiptechlogo.jpg" alt="Blockchain Technology Asia" width={128} height={128}/>
         </a>
       </footer>
